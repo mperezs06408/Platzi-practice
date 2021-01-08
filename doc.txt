@@ -1,5 +1,7 @@
 Hola, este es un ejercicio en git.
 
+Mañana nos enfocaremos en su vida laboral.
+
 created by Santiago Pérez
 Systems Engineering
 January 07th, 2021.
