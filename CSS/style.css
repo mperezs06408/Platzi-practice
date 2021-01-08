@@ -1,6 +1,15 @@
-body
+#container
 {
     text-align: center;
+    
     font-family: "Arial";
-    color: purple;
+    padding: 1em;
+}
+
+#post
+{
+    padding:1em;
+    margin: auto;
+    border: 1px solid #111111;
+    width: 70%;    
 }
