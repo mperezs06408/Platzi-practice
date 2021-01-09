@@ -32,8 +32,8 @@ body
 
 #container #header
 {
-    background: black;
-    color:green;
+    background: indigo;
+    color: red;
     margin: 0;
     padding: 0.5em;
     text-align: left;
