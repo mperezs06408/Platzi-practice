@@ -34,7 +34,6 @@ body
 {
     padding: 1em;
     border: 1px solid blue;
-    
 }
 
 #bodyContent h2
@@ -45,4 +44,12 @@ body
 #bodyContent h3
 {
     font-size: 1.5em;
+}
+
+footer
+{
+    color: white;
+    padding: 1em;
+    background-color: rgb(0,0,0,0.5);
+    text-align:right;
 }
