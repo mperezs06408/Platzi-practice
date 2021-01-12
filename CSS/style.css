@@ -46,15 +46,10 @@ body
     font-size: 30px;
 }
 
-/*
-#bodyContent h2
-{
-    font-size: 3em;
-}
-*/
 .bodyContent__title 
 {
     font-size:1em;
+    line-height: 0.5;
 }
 
 #bodyContent h3
