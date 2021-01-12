@@ -52,6 +52,11 @@ body
     line-height: 0.5;
 }
 
+.bodyContent__image
+{
+    width: 15em ;
+}
+
 #bodyContent h3
 {
     font-size: 1.5em;
